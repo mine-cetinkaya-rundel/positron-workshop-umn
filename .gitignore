@@ -1,0 +1,11 @@
+/.quarto/
+**/*.quarto_ipynb
+*.key
+/_site
+
+/.luarc.json
+*.key
+.Rproj.user
+*.kth
+*.mov
+hello.qmd
