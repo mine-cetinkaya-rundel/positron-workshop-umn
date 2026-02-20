@@ -7,8 +7,8 @@ website:
   favicon: images/positron-icon.svg
   page-navigation: true
   site-url: https://mine-cetinkaya-rundel.github.io/positron-workshop-umn/
-  title: "Getting Started with Positron"
-  description: "Half-day introduction to Positron for R/RStudio users"
+  title: Doing data science in Positron
+  description: Half-day introduction to Positron for R/RStudio users
   repo-url: https://github.com/mine-cetinkaya-rundel/positron-workshop-umn
   page-footer:
     center:
