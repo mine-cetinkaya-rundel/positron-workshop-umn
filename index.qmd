@@ -1,7 +1,7 @@
 ---
 title: Doing data science in Positron
 subtitle: University of Minnesota
-author: Mine Çetinkaya-Rundel
+author: Mine Çetinkaya-Rundel <br> [bit.ly/positron-umn](https://bit.ly/positron-umn)
 listing:
   id: modules
   contents: modules/*.qmd
